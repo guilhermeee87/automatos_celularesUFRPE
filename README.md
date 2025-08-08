@@ -26,10 +26,6 @@ A evolução do sistema ao longo do tempo, quando visualizada em 2D, revela o pa
 
 2.  Instale as dependências:
     ```bash
-    pip install -r requirements.txt
-    ```
-    (Você precisará criar um arquivo `requirements.txt` com o conteúdo `numpy` e `matplotlib`). Ou simplesmente instale-as manualmente:
-    ```bash
     pip install numpy matplotlib
     ```
 
