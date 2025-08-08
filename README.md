@@ -4,9 +4,6 @@ Este projeto contém um script em Python que implementa um autômato celular uni
 
 [cite_start]O modelo é baseado no documento "Cellular Automata: A Discrete View of the World"  e serve como uma demonstração prática de complexidade emergente.
 
-![Sierpinski Triangle Output](sierpinski_demo.png)
-*(Nota: Você pode gerar esta imagem `sierpinski_demo.png` executando o script e salvando a figura)*
-
 ## Como Funciona
 
 O autômato opera em uma grade 1D de células, onde cada célula pode estar em um de dois estados: 0 (inativa) ou 1 (ativa). A simulação começa com uma única célula ativa no centro.
