@@ -2,7 +2,7 @@
 
 Este projeto contém um script em Python que implementa um autômato celular unidimensional (1D) para gerar o famoso fractal conhecido como Triângulo de Sierpiński. Este é um exemplo clássico de como regras locais muito simples podem levar à emergência de comportamentos globais complexos e ordenados.
 
-[cite_start]O modelo é baseado no documento "Cellular Automata: A Discrete View of the World"  e serve como uma demonstração prática de complexidade emergente.
+O modelo é baseado no documento "Cellular Automata: A Discrete View of the World"  e serve como uma demonstração prática de complexidade emergente.
 
 ## Como Funciona
 
@@ -22,11 +22,7 @@ A evolução do sistema ao longo do tempo, quando visualizada em 2D, revela o pa
 
 ## Instalação
 
-1.  Clone este repositório:
-    ```bash
-    git clone [https://github.com/seu-usuario/sierpinski-automaton.git](https://github.com/seu-usuario/sierpinski-automaton.git)
-    cd sierpinski-automaton
-    ```
+1.  Clone este repositório;
 
 2.  Instale as dependências:
     ```bash
